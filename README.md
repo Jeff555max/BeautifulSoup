@@ -22,7 +22,7 @@
 
 pip install requests beautifulsoup4 googletrans==4.0.0-rc1
 
-Шаг 2: Запустите программу
+### Шаг 2: Запустите программу
 Сохраните код в файл, например, word_game.py, и выполните его:
 python word_game.py
 
